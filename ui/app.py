@@ -4,7 +4,7 @@ import json
 import matplotlib.pyplot as plt
 import numpy as np
 
-API_URL = "http://localhost:10000/"
+API_URL = "https://chest-xray-classifier-1.onrender.com/"
 
 st.title("Chest X-Ray Pneumonia Detection")
 
