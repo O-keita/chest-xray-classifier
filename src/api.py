@@ -4,7 +4,7 @@ from fastapi.middleware.cors import CORSMiddleware
 import uvicorn
 import os
 import time
-from prediction import load_trained_model, predict_image, predict_batch
+from src.prediction import load_trained_model, predict_image, predict_batch
 
 
 app = FastAPI(title="Chest X-Ray Pneumonia API")
