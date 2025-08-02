@@ -86,7 +86,7 @@ try:
         history = json.load(f)
 
     epochs = np.arange(1, len(history["accuracy"]) + 1)
-    best_epoch = 5  # Adjust based on your best epoch (zero-based index, so 5 means epoch 6 for users)
+    best_epoch = 4  # Adjust based on your best epoch (zero-based index, so 4 means epoch 5 for users)
 
     fig, axs = plt.subplots(2, 2, figsize=(12, 8))
 
