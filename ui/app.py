@@ -85,8 +85,10 @@ try:
     with open("models/history.json", "r") as f:
         history = json.load(f)
 
+    best_epoch = int(np.argmax(history["val_accuracy"]))  # Index of best val_accuracy
+
     epochs = np.arange(1, len(history["accuracy"]) + 1)
-    best_epoch = 4  # Adjust based on your best epoch (zero-based index, so 4 means epoch 5 for users)
+    best_epoch = best_epoch  # Adjust based on your best epoch (zero-based index, so 4 means epoch 5 for users)
 
     fig, axs = plt.subplots(2, 2, figsize=(12, 8))
 
