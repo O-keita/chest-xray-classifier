@@ -10,16 +10,15 @@ To ensure robustness and scalability, Locust is used for load testing, analyzing
 
 ---
 
-## 📺 Video Demo
+## 📺 Demo Video
 
 Watch the full demo on YouTube:  
-[![Watch the video](https://img.shields.io/badge/YouTube-Demo-red?logo=youtube)](YOUR_YOUTUBE_DEMO_LINK_HERE)
+https://youtu.be/Lpywqb8_IXo
 
 ---
 
 ## 🌍 Live Demo
 
-Try the live backend:  
 [https://chest-xray-classifier-9tuew99kyhj2xzbhbaix9r.streamlit.app/](https://chest-xray-classifier-9tuew99kyhj2xzbhbaix9r.streamlit.app/)
 
 ---
