@@ -14,7 +14,7 @@ Watch the full demo on YouTube:
 ## 🌍 Live Demo
 
 Try the live backend:  
-[https://chest-xray-classifier-1.onrender.com](https://chest-xray-classifier-1.onrender.com)
+[https://chest-xray-classifier-9tuew99kyhj2xzbhbaix9r.streamlit.app/](https://chest-xray-classifier-9tuew99kyhj2xzbhbaix9r.streamlit.app/)
 
 ---
 
@@ -118,20 +118,7 @@ At the fifth epoch, the model demonstrated excellent generalization with 87.5% v
 
 ## 🌊 Flood Request Simulation Results
 
-- **Tool:** Locust
-- **Target URL:** `https://chest-xray-classifier-1.onrender.com`
-- **Config Example:**  
-    - Users: 10  
-    - Ramp up rate: 2 users/second
-
-**Sample Output:**
-```
-Requests per second (RPS): 3.2
-Average Response Time: 450 ms
-Failure Rate: 0%
-CPU Usage: 65%
-```
-*(Replace with your actual results if needed.)*
+<img width="1217" height="900" alt="total_requests_per_second_1754183442 268" src="https://github.com/user-attachments/assets/46c47296-e8b3-43f8-8d44-76c0e1936da0" />
 
 ---
 
