@@ -129,7 +129,7 @@ At the fifth epoch, the model demonstrated excellent generalization with 87.5% v
 
 ## 📎 Useful Links
 
-- [YouTube Demo](YOUR_YOUTUBE_DEMO_LINK_HERE)
+- [YouTube Demo](https://youtu.be/Lpywqb8_IXo)
 - [Live Demo](https://chest-xray-classifier-9tuew99kyhj2xzbhbaix9r.streamlit.app/)
 - [API Docs](https://chest-xray-classifier-1.onrender.com/docs)
 
